@@ -11,6 +11,8 @@ The dataset includes the following files:
 
 - UCIHARDataset: Source data for this project.
 
+- ‘tidyDataset.txt’: It is the file uploaded to courser equivalent to summarizedDataset.csv
+
 - ‘completeDataset.txt’: It describes the metrics included in completeDataset.csv
 
 - ’summarizedDataset.txt’: It describes the metrics included in summarizedDataset.csv
